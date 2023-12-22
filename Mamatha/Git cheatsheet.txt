@@ -1,0 +1,37 @@
+git init
+
+mkdir directoryname
+
+git add .
+
+git add filename
+
+git status
+
+git commit -m "ur mesg"
+
+git config --global user.email "urgitemail"
+
+git config --global user.name "username"
+
+git remote add origin therepourl
+
+git stash
+
+git push origin branchname
+
+git branch branchname
+
+git checkout branchname
+
+git checkout -b  branchname
+
+git fetch
+
+git pull origin branchname
+
+git stash apply
+
+git stash pop
+
+
